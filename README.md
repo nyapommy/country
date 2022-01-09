@@ -1,6 +1,6 @@
 # Country
-(ESPAÑOL/SPANISH) Country es una aplicación que genera nombres de paises aleatoriamente
+Country is an application that generates random country names
 
-Creditos a:
+Credits to:
 
 giganlak
